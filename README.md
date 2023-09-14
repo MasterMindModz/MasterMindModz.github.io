@@ -1,2 +1,3 @@
-# MasterMindModz.github.io
-MasterMindModz
+# Welcome to MasterMindModz
+
+## MMM
